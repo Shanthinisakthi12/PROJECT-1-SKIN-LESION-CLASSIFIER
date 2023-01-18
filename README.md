@@ -1,4 +1,4 @@
-# Skin-lesion-Classifier
+# Skin-lesion-Classifier-PROJECT 1
 Deep Learning based Skin lesion classification using novel extended nested residual model.
 
 MOTIVE:
