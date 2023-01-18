@@ -1,2 +1,2 @@
 # Skin-lesion-Classifier
-Deep LEarning based Skin lesion classification
+Deep Learning based Skin lesion classification using novel nested residual model.
